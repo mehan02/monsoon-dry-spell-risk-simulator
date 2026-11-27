@@ -7,6 +7,7 @@ This project studies monsoon dry-spell risk in Colombo and Hambantota, Sri Lanka
 **Open the project notebook in Google Colab:**
 
 [SE4042 Monsoon Dry-Spell Simulation – Colab](https://colab.research.google.com/drive/1be2XYEVDYAYhvU9g68FUrforvt-3fqmk?usp=sharing)
+[SE4042 Monsoon Dry-Spell Simulation – WebDemo](https://mehan02.github.io/monsoon-dry-spell-risk-simulator/)
 
 ### Run in Colab
 
